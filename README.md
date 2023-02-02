@@ -1,0 +1,1 @@
+# course-global-scope-closure
